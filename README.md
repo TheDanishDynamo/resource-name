@@ -17,4 +17,4 @@ Longitude	71° 51′ W to 79° 46′ W => "dr7"
 1) Username lists (list of random names matching the requirements)
 2) Geohash 32ghs (random - or related to a popular location easy to remember)  
 3) Plus Code (random - or related to a popular location easy to remember)
-4) Base 32 ghs 4 characters gives 33,000+ usernames
+4) Base 32 ghs 4 characters gives 33,000+ resource names
